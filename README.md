@@ -49,9 +49,9 @@ python app.py
 ```
 
 ## Usage
-Open your web browser and go to http://127.0.0.1:5000/ to access the application.
-Sign up for a new account or log in if you already have one.
-Search for restaurants in your area or get recommendations based on your location.
+# Open your web browser and go to http://127.0.0.1:5000/ to access the application.
+# Sign up for a new account or log in if you already have one.
+# Search for restaurants in your area or get recommendations based on your location.
 
 ## Dependencies
 Flask: Web framework for Python.
