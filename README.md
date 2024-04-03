@@ -11,7 +11,7 @@ git clone
 2. Navigate to the project directory:
 
 3. Create a virtual environment (recommended):
-```terminal
+``terminal
 python -m venv venv
 ``
 
