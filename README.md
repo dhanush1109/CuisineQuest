@@ -5,7 +5,7 @@ This is a Flask web application that helps users find nearby restaurants and pro
 
 ## Installation
 1. Clone this repository to your local machine:
-```terminal
+``terminal
 git clone 
 ``
 2. Navigate to the project directory:
