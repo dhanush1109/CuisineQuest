@@ -4,10 +4,10 @@ from sklearn.neighbors import BallTree
 import numpy as np
 
 app = Flask(__name__)
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'Dhanush@07'
-app.config['MYSQL_DB'] = 'restaurant_db'
+app.config['MYSQL_HOST'] = 'YOUR_HOST_NAME'
+app.config['MYSQL_USER'] = 'YOUR_DATABASE_USERNAME'
+app.config['MYSQL_PASSWORD'] = 'YOUR_DATABASE_PASSWORD'
+app.config['MYSQL_DB'] = 'YOUR_DATABSE_NAME'
 
 mysql = MySQL(app)
 
